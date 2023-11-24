@@ -1,22 +1,31 @@
-# Portfolio Website
-This Portfolio Website showcases my skills, projects, and experiences in the field of [Your Field/Area]. It's designed to provide an overview of my work and expertise.
+## Portfolio-Website
+Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-## Features
-Responsive Design: A responsive layout ensuring compatibility across various devices and screen sizes.
-Project Showcase: Highlighting various projects with descriptions, images, and links.
-About Me Section: Personal information, skills, and experiences showcased in a concise manner.
-Contact Form: A contact section allowing visitors to get in touch.
-## Technologies Used
-HTML: Structuring the content and layout of the website.
-CSS: Styling elements for an aesthetically pleasing interface.
-JavaScript: Adding interactive elements and enhancing user experience.
-## Usage
-Clone this repository to your local machine.
-Open the index.html file in your preferred web browser to view the website.
-## Screenshots
+<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
-![302](https://github.com/Aashiparihar07/Portfolio_Website/assets/115942226/7df27285-7ef7-4f2d-9eee-8b07c3f9e833)
-![303](https://github.com/Aashiparihar07/Portfolio_Website/assets/115942226/8023cab2-f00b-4a17-b7e7-a31fa9e8d004)
-![304](https://github.com/Aashiparihar07/Portfolio_Website/assets/115942226/52fd962e-13c6-40c5-90c3-8ef6e07babbd)
+## 📌 Tech Stack
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
+### Extras : 
+Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+
+## 📌 Sneak Peek of Main Page 🙈 :
+![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
+![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+
+
+<h2>📬 Contact</h2>
+
+
+If you want to contact me, you can reach me through below handles.
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jigar-sable/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
+© 2022 Jigar Sable
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
