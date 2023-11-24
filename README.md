@@ -17,4 +17,5 @@ Open the index.html file in your preferred web browser to view the website.
 
 ![302](https://github.com/Aashiparihar07/Portfolio_Website/assets/115942226/3190d154-c9dc-4ca6-b80c-753f462ddb75)
 ![303](https://github.com/Aashiparihar07/Portfolio_Website/assets/115942226/6ccdd841-d3ed-4949-92df-5b7008388944)
-![304](https://github.com/Aashiparihar07/Portfolio_Website/assets/115942226/cce3b339-c731-485e-a97c-b1bd8e61c23c)
+
+![102](https://github.com/Aashiparihar07/Portfolio_Website/assets/115942226/19e3c948-375b-4506-844b-e2708a4b02c0)
