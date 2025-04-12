@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Aashi Parihar";
+            document.title = "Projects | Portfolio";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
